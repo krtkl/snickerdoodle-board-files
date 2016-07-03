@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
-<board schema_version="2.0" vendor="krtkl.com" name="snickerdoodle black" display_name="snickerdoodle black Development Platform" url="http://snickerdoodle.io" preset_file="preset.xml">
+<board schema_version="2.0" vendor="krtkl.com" name="snickerdoodle_black" display_name="snickerdoodle black Development Platform" url="http://snickerdoodle.io" preset_file="preset.xml">
   <images>
     <image name="snickerdoodle.jpg" display_name="snickerdoodle black" sub_type="board">
       <description>snickerdoodle black Board File</description>
