@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <board schema_version="2.0" vendor="krtkl.com" name="snickerdoodle_prime_le" display_name="snickerdoodle Prime LE Development Platform" url="http://snickerdoodle.io" preset_file="preset.xml">
   <images>
-    <image name="snickerdoodle.jpg" display_name="snickerdoodle Prime LE" sub_type="board">
+    <image name="snickerdoodle_prime_le.jpg" display_name="snickerdoodle Prime LE" sub_type="board">
       <description>snickerdoodle Prime LE Board File</description>
     </image>
   </images>
