@@ -8,7 +8,7 @@
         <user_parameter name="CONFIG.PCW_PACKAGE_NAME" value="clg400"/> 
         <user_parameter name="CONFIG.PCW_USE_M_AXI_GP0" value="1"/> 
         <user_parameter name="CONFIG.PCW_USE_M_AXI_GP1" value="0"/> 
-        <user_parameter name="CONFIG.PCW_CRYSTAL_PERIPHERAL_FREQMHZ" value="33.3333"/> 
+        <user_parameter name="CONFIG.PCW_CRYSTAL_PERIPHERAL_FREQMHZ" value="33.3333"/>
         <user_parameter name="CONFIG.PCW_APU_CLK_RATIO_ENABLE" value="6:2:1"/> 
         <user_parameter name="CONFIG.PCW_CPU_PERIPHERAL_CLKSRC" value="ARM PLL"/> 
         <user_parameter name="CONFIG.PCW_DDR_PERIPHERAL_CLKSRC" value="DDR PLL"/>    
@@ -51,7 +51,7 @@
         <user_parameter name="CONFIG.PCW_TTC0_CLK1_PERIPHERAL_FREQMHZ" value="111.111115"/> 
         <user_parameter name="CONFIG.PCW_TTC0_CLK2_PERIPHERAL_FREQMHZ" value="111.111115"/>
         <user_parameter name="CONFIG.PCW_EN_DDR" value="1"/>
-        <user_parameter name="CONFIG.PCW_DDR_RAM_HIGHADDR" value="0x3FFFFFFF"/>
+        <user_parameter name="CONFIG.PCW_DDR_RAM_HIGHADDR" value="0x1FFFFFFF"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_MEMORY_TYPE" value="LPDDR 2"/> 
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_PARTNO" value="Custom"/> 
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_BUS_WIDTH" value="32 Bit" />
@@ -59,10 +59,10 @@
         <user_parameter name="CONFIG.PCW_UIPARAM_ACT_DDR_FREQ_MHZ" value="400"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_USE_INTERNAL_VREF" value="0"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_DRAM_WIDTH" value="32 Bits"/> 
-        <user_parameter name="CONFIG.PCW_UIPARAM_DDR_DEVICE_CAPACITY" value="8192 MBits"/> 
+        <user_parameter name="CONFIG.PCW_UIPARAM_DDR_DEVICE_CAPACITY" value="4096 MBits"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_SPEED_BIN" value="LPDDR2_1066"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_ROW_ADDR_COUNT" value="14"/>
-        <user_parameter name="CONFIG.PCW_UIPARAM_DDR_COL_ADDR_COUNT" value="11"/>
+        <user_parameter name="CONFIG.PCW_UIPARAM_DDR_COL_ADDR_COUNT" value="10"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_CL" value="6"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_T_RCD" value="8"/>
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_T_RP" value="9"/>

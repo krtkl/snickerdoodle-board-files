@@ -8,7 +8,7 @@
         <user_parameter name="CONFIG.PCW_PACKAGE_NAME" value="clg400"/>
         <user_parameter name="CONFIG.PCW_USE_M_AXI_GP0" value="1"/>
         <user_parameter name="CONFIG.PCW_USE_M_AXI_GP1" value="0"/>
-        <user_parameter name="CONFIG.PCW_CRYSTAL_PERIPHERAL_FREQMHZ" value="33.333333"/>
+        <user_parameter name="CONFIG.PCW_CRYSTAL_PERIPHERAL_FREQMHZ" value="33.3333"/>
         <user_parameter name="CONFIG.PCW_APU_CLK_RATIO_ENABLE" value="6:2:1"/>
         <user_parameter name="CONFIG.PCW_CPU_PERIPHERAL_CLKSRC" value="ARM PLL"/>
         <user_parameter name="CONFIG.PCW_DDR_PERIPHERAL_CLKSRC" value="DDR PLL"/>    
